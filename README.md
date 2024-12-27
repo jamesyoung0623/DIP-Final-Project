@@ -7,7 +7,7 @@ Our code is tested with PyTorch 2.1.1 and CUDA 12.1.
 git clone --recursive https://github.com/jamesyoung0623/DIP-Final-Project.git
 cd DIP-Final-Project
 conda env create --file environment.yml
-conda activate 3dgs
+conda activate 3DGS
 pip install -r requirements.txt
 ```
 
