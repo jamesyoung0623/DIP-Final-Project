@@ -2,7 +2,6 @@
 This is a self-implementation of frequency-based 3DGS regularization on realistic style tranfer dataset.
 
 ## Environment Setup
-Our code is tested with PyTorch 2.1.1 and CUDA 12.1.
 ```
 git clone --recursive https://github.com/jamesyoung0623/DIP-Final-Project.git
 cd DIP-Final-Project
